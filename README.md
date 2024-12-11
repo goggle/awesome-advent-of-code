@@ -508,7 +508,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [DownDev/advent-of-code](https://github.com/DownDev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
-* [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
+* [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
 * [SebastianMaung/advent-of-code-2024](https://github.com/SebastianMaung/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
@@ -661,7 +661,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Vyxal.*
 
-* [taylors-version/advent-of-code-2024-vyxal](https://github.com/taylors-version/advent-of-code-2024-vyxal) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
+* [taylors-version/advent-of-code-2024-vyxal](https://github.com/taylors-version/advent-of-code-2024-vyxal) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 
 #### Whitespace
 
