@@ -306,7 +306,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
+* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
 
 #### Crystal
 
@@ -472,7 +472,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in OCaml.*
 
-* [vshender/advent-of-code](https://github.com/vshender/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
+* [vshender/advent-of-code](https://github.com/vshender/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
 
 #### PHP
 
@@ -544,7 +544,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Raku.*
 
-* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
+* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
 
 #### ReasonML
 
