@@ -271,7 +271,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C.*
 
-* [piscilus/aoc24](https://github.com/piscilus/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
+* [piscilus/aoc24](https://github.com/piscilus/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 
 #### C#
 
@@ -350,7 +350,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in F#.*
 
-* [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
+* [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 
 #### Factor
 
@@ -604,7 +604,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Scala.*
 
 * [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
-* [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
+* [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 * [nikiforo/aoc24](https://github.com/nikiforo/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 * [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 
@@ -632,7 +632,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Swift.*
 
-* [gereons/AoC2024](https://github.com/gereons/AoC2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
+* [gereons/AoC2024](https://github.com/gereons/AoC2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 
 #### TypeScript
 
