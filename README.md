@@ -488,7 +488,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Picat.*
 
-* [DestyNova/advent_of_code_2024](https://github.com/DestyNova/advent_of_code_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
+* [DestyNova/advent_of_code_2024](https://github.com/DestyNova/advent_of_code_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 
 #### Pony
 
@@ -508,7 +508,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [DownDev/advent-of-code](https://github.com/DownDev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
-* [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
+* [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 * [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
 * [SebastianMaung/advent-of-code-2024](https://github.com/SebastianMaung/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
@@ -588,7 +588,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 * [jthomaschewski/advent-of-code](https://github.com/jthomaschewski/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
 * [keelus/advent-of-code](https://github.com/keelus/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 * [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 * [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 * [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
@@ -606,7 +606,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
 * [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 * [nikiforo/aoc24](https://github.com/nikiforo/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
-* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
+* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 
 #### Scheme
 
